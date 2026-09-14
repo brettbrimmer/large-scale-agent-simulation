@@ -1,0 +1,63 @@
+# ==============================
+# Unity generated folders
+# ==============================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Builds
+[Bb]uild/
+[Bb]uilds/
+
+# Memory captures
+[Mm]emoryCaptures/
+
+# Recordings
+[Rr]ecordings/
+
+# Crash reports
+sysinfo.txt
+
+# Recovery
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+
+# ==============================
+# IDE / editor files
+# ==============================
+
+.vs/
+.idea/
+
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+
+# ==============================
+# OS junk
+# ==============================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+
+# ==============================
+# Third-party / licensed assets
+# ==============================
+
+/Assets/ThirdParty/
+/Assets/ThirdParty.meta
